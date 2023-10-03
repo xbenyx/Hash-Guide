@@ -1,3 +1,3 @@
 # Hash Guide
 
-Document about hash information types of hashes. such as crackers (binaries)
+Document about hash information types of hashes.  Such as crackers (binaries)
