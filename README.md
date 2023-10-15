@@ -2,5 +2,5 @@
 
 Document about hash information types of hashes.  Such as crackers (binaries)
 
-MD5
+MD5, SHA1
 ......
