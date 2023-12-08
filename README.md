@@ -46,12 +46,26 @@ File Forensics is a critical aspect of digital forensics that focuses on the exa
 
 *USB Forensics* is a critical subfield of digital forensics that involves the examination and analysis of USB storage devices.
 
-## 1.5 Access Mobile Device
+## 1.5 Browser Forensics
+
+Extract information, passwords and cookies.
+
+Cookies
+- SharpCookieMonster [link](https://github.com/riskydissonance/SharpCookieMonster) Extract cookies from all sites, even secure cookies.
+
+Passwords
+- Lazagne [link](https://github.com/AlessandroZ/LaZagne)
+- HackBrowserData [link](https://github.com/moonD4rk/HackBrowserData)
+- Chrome Password Grabber [link](https://github.com/priyankchheda/chrome_password_grabber)
+
+### 1.6 Access Mobile Device
 
 ## 2. Identify the Hashtype
 
 ## 3. Crack the password
 
+
+## Forensic Road Map Graph
 
 ## Other Forensic
 
